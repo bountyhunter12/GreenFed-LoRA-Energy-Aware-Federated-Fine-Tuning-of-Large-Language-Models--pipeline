@@ -12,6 +12,11 @@ The thesis-grade figures used in the simulation are shipped in this repository.
 
 ## Run the demo
 
+ https://bountyhunter12.github.io/GreenFed-LoRA-Energy-Aware-Federated-Fine-Tuning-of-Large-Language-Models--pipeline/
+ 
+---
+## Run the demo
+
 The demo is a single static page. Pick **one** of these:
 
 ```bash
